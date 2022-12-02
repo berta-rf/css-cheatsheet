@@ -10,7 +10,7 @@ This is a CSS cheatsheet that was created for bootcamp students who are studying
 
 ## Usage
 
-When hovering over a code card, just one click on the code will select all, so it aallows you to copy the code snippet to your clipboard very easily.
+When hovering over a code card, just one click on the code will select all, so it allows you to copy the code snippet to your clipboard very easily.
 
 ## Credits
 
